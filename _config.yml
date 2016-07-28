@@ -1,4 +1,3 @@
-layout_spectrum: 0.7402290226891637
 typography_spectrum: 0.3139874937478453
 color:
   brandStrength: 0.26490462804213166
@@ -11,6 +10,8 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-name: Ambassadors of Style
+layout_spectrum: 0.7402290226891637
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/110e55e7-abd0-4a34-bfbf-316db6f14519.jpg
+name: Ambassadors of Style
+description: 'The baddest of the bad, the coolest of the cool'
