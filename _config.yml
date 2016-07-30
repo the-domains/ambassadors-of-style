@@ -18,9 +18,6 @@ navigation:
   - name: HOME
     url: 'http://aostyle.com'
     type: external
-  - name: About Us
-    id: b60fe398-9e00-4840-8787-a89596cb80f1
-    type: content
   - name: Home
     url: aostyle.org
     type: external
