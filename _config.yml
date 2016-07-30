@@ -14,5 +14,8 @@ layout_spectrum: 0.7402290226891637
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/110e55e7-abd0-4a34-bfbf-316db6f14519.jpg
 name: Ambassadors of Style
-navigation: []
+navigation:
+  - name: HOME
+    url: 'http://aostyle.org'
+    type: external
 description: 'The baddest of the bad, the coolest of the cool'
