@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[AOs]]></title>
-        <description><![CDATA[AOs]]></description>
+        <title><![CDATA[Ambassadors of Style]]></title>
+        <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jul 2016 17:48:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2016 19:53:53 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Uber Starts Mapping Roads in Mexico]]></title>
+            <description><![CDATA[<article><h1>Uber Starts Mapping Roads in Mexico</h1><p>(Bloomberg) -- Uber Technologies Inc. is expanding its road-mapping effort to Mexico, as part of a larger strategy to build up its map data for its ride-hailing service and to rely less on potential competitors like Google.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f75de8ac4248b1446f07c3cfbbedbf10/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBaY29p.img%3Fh%3D207%26w%3D300%26m%3D6%26q%3D60%26u%3Dt%26o%3Dt%26l%3Df%26x%3D1006%26y%3D671"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBv04B3?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">3a5221f5-5b89-4cce-aa5f-7f2df3bec9c9</guid>
+            <pubDate>Sat, 30 Jul 2016 19:53:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[People Who Accidentally Blended Into Their Surroundings]]></title>
             <description><![CDATA[<article><h1>People Who Accidentally Blended Into Their Surroundings</h1><p>Camouflage is an effective tool for animals in the wild who need to stalk their prey. Even humans use this technique in times of war in order to sneak up on the enemy. And as the most advanced species on the planet, we humans can be really good at blending in.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f83ed4c2d1e9758537475c3d9721f4db/noop.jpg?input=http%3A%2F%2Fimg3.rnkr-static.com%2Flist_img_v2%2F12135%2F2312135%2Ffull%2Fpeople-who-blended-into-their-surroundings-u2.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Headspace App Launches Personal Meditative Pods</h1><p>More than five million people globally have used guided meditation service Headspace. There's an invaluable ease to using their service (especially the free app) and it has opened the doors of meditation to many. Now, the acclaimed team behind the app have produced a different sort of tool for meditation: a private nature-inspired pod made in collaboration with architect duo Oyler Wu.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/abad275011544f8a2881bd3954c4362a/croprotate.jpg?cropheight=1065&cropwidth=1185&degrees=0&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F5ec8782033d6ec0185688a89ac59831c73a6e4a0.jpg&x=0&y=0"></article>]]></description>
             <link>http://www.coolhunting.com/design/headspace-app-meditative-pods</link>
             <guid isPermaLink="false">ada57d0b-8f8f-4dca-a93e-133dbd884663</guid>
-            <pubDate>Tue, 26 Jul 2016 22:12:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[OneCook Personal Robotic Chef]]></title>
-            <description><![CDATA[<article><h1>OneCook Personal Robotic Chef</h1><p>Modern kitchen appliances can brew you the perfect espresso, bake a fluffy loaf of bread, mix a killer cocktail or even blend up a personalized smoothie-all with the press of a single button. So why not program them to cook a full meal? That's exactly what Boston-based company TNL Corp.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/adf61e992385ffbdfd2ff8df42f59c6a65ef9513.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/food-drink/one-cook-personal-robotic-chef</link>
-            <guid isPermaLink="false">870f77d7-e119-463e-9821-217edc06fcb1</guid>
             <pubDate>Tue, 26 Jul 2016 22:12:44 GMT</pubDate>
         </item>
     </channel>
