@@ -21,4 +21,7 @@ navigation:
   - name: About Us
     id: b60fe398-9e00-4840-8787-a89596cb80f1
     type: content
+  - name: HOME
+    url: 'http://aostyle.com'
+    type: external
 description: 'The baddest of the bad, the coolest of the cool'
