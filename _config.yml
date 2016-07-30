@@ -18,7 +18,4 @@ navigation:
   - name: HOME
     url: 'http://aostyle.com'
     type: external
-  - name: Home
-    url: aostyle.org
-    type: external
 description: 'The baddest of the bad, the coolest of the cool'
