@@ -1,16 +1,16 @@
-typography_spectrum: 0.5766590642742813
+typography_spectrum: 0.6006983136758208
 color:
-  brandStrength: 0.7818863964639604
-  lightness: 0.4004481148440391
-  saturation: 0.08343223505653441
-  rhythmicContrast: 0.1691675717011094
+  brandStrength: 0.3960431437008083
+  lightness: 0.8752877654042095
+  saturation: 0.3110378859564662
+  rhythmicContrast: 0.20466641895473003
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.5830076283309609
+layout_spectrum: 0.021829705219715834
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b76805e-94af-44c4-ad36-fbea7b1cc607.png
 name: Ambassadors of Style
