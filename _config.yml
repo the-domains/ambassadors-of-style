@@ -27,5 +27,8 @@ navigation:
   - name: Events
     id: 482f2e52-1e0c-4b9b-b0ef-ebbe37809dbb
     type: content
+  - name: Contact
+    id: 8ae9e4eb-9c5d-426f-8602-14baf0dc380c
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
