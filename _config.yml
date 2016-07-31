@@ -18,5 +18,8 @@ navigation:
   - name: About
     id: b60fe398-9e00-4840-8787-a89596cb80f1
     type: content
+  - name: Programs
+    id: 3543f051-a6c8-40eb-86da-4a4f0682e442
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
