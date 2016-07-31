@@ -18,7 +18,7 @@ navigation:
   - name: HOME
     url: 'http://aostyle.org'
     type: external
-  - name: About Us
+  - name: About
     id: b60fe398-9e00-4840-8787-a89596cb80f1
     type: content
 title: Ambassadors of Style
