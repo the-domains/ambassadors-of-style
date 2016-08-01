@@ -30,5 +30,8 @@ navigation:
   - name: Contact
     id: 8ae9e4eb-9c5d-426f-8602-14baf0dc380c
     type: content
+  - name: Donate
+    id: e248ab55-7d9f-49a9-a04b-5febc2c98cb7
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
