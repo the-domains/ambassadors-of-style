@@ -33,5 +33,8 @@ navigation:
   - name: Members
     id: 62fb57e9-c553-4b1b-846d-3303285ed3b2
     type: content
+  - name: Donate
+    id: eacda649-f696-41ea-a504-bcb4a2d67640
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
