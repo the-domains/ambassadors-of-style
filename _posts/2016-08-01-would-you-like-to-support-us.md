@@ -4,18 +4,17 @@ description: >-
   programs throughout the year. We sincerely thank you for your generosity.
   Ambassador of Style innovation program is currently a start up that is
   becoming a 501(c)(3), all donations will available for public record. 
-dateModified: '2016-08-01T22:31:35.073Z'
-datePublished: '2016-08-01T22:34:16.943Z'
+dateModified: '2016-08-01T22:36:30.494Z'
+datePublished: '2016-08-01T22:36:31.122Z'
 title: Would you like to support us?
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-01-would-you-like-to-support-us.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: would-you-like-to-support-us/index.html
+_type: Blurb
 
 ---
 # Would you like to support us?
