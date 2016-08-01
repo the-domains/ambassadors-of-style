@@ -15,14 +15,14 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b76805e-94af-44c4-ad36-fbea7b1cc607.png
 name: Ambassadors of Style
 navigation:
+  - name: Partners
+    id: a7b633a3-e956-46f7-a11c-e74d89fa6214
+    type: content
   - name: About
     id: b60fe398-9e00-4840-8787-a89596cb80f1
     type: content
   - name: Programs
     id: 3543f051-a6c8-40eb-86da-4a4f0682e442
-    type: content
-  - name: Partners
-    id: a7b633a3-e956-46f7-a11c-e74d89fa6214
     type: content
   - name: Events
     id: 482f2e52-1e0c-4b9b-b0ef-ebbe37809dbb
