@@ -24,5 +24,8 @@ navigation:
   - name: Partners
     id: a7b633a3-e956-46f7-a11c-e74d89fa6214
     type: content
+  - name: Events
+    id: 482f2e52-1e0c-4b9b-b0ef-ebbe37809dbb
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
