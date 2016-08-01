@@ -14,6 +14,9 @@ layout_spectrum: 0.021829705219715834
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b76805e-94af-44c4-ad36-fbea7b1cc607.png
 name: Ambassadors of Style
-navigation: []
+navigation:
+  - name: About
+    id: b60fe398-9e00-4840-8787-a89596cb80f1
+    type: content
 title: Ambassadors of Style
 description: 'The baddest of the bad, the coolest of the cool'
