@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 04:47:03 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[China, Not Silicon Valley, Is Cutting Edge in Mobile Tech]]></title>
+            <description><![CDATA[<article><h1>China, Not Silicon Valley, Is Cutting Edge in Mobile Tech</h1><p>The future of online payments and engagements can be found at Liu Zheng's noodle shop in central Beijing. Liu Xiu'e, 60, and her neighbor, Zhang Lixin, 55, read about the noodle shop on WeChat. Then they ordered and paid for their lunches and took and posted selfies of themselves outside the restaurant, all using the same app.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/661b733a70becd9f7b3e184bfaf67ae3/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F02%2Fbusiness%2F03chinainternet1%2F00CHINAINTERNET-facebookJumbo.jpg"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBv9UYX?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">5fbedb8d-bac3-4e84-b229-bca1735f46f3</guid>
+            <pubDate>Wed, 03 Aug 2016 04:46:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Augmented advertising: VNTANA's holograms are changing the way companies advertise]]></title>
@@ -68,13 +75,6 @@
             <link>http://a.msn.com/r/2/BBuX4jp?m=en-us&amp;ocid=News</link>
             <guid isPermaLink="false">68b2416d-1307-4280-b60d-f567be9d202a</guid>
             <pubDate>Sat, 30 Jul 2016 19:54:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Uber Starts Mapping Roads in Mexico]]></title>
-            <description><![CDATA[<article><h1>Uber Starts Mapping Roads in Mexico</h1><p>(Bloomberg) -- Uber Technologies Inc. is expanding its road-mapping effort to Mexico, as part of a larger strategy to build up its map data for its ride-hailing service and to rely less on potential competitors like Google.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f75de8ac4248b1446f07c3cfbbedbf10/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBaY29p.img%3Fh%3D207%26w%3D300%26m%3D6%26q%3D60%26u%3Dt%26o%3Dt%26l%3Df%26x%3D1006%26y%3D671"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBv04B3?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">3a5221f5-5b89-4cce-aa5f-7f2df3bec9c9</guid>
-            <pubDate>Sat, 30 Jul 2016 19:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
