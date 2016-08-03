@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:54:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 04:55:24 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Office Cribs: 6 LA tech offices that'll give you office envy]]></title>
+            <description><![CDATA[<article><h1>Office Cribs: 6 LA tech offices that'll give you office envy</h1><p>With steady growth in the market, many of LA tech's growing companies are remodeling their offices, while others are starting from scratch. Some of these companies even find themselves outgrowing</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fcd952b1a1c97cd9ad75731e29b1b70/noop.jpg?input=http%3A%2F%2Fmedia3.cdn.builtinla.com%2Fsites%2Fwww.builtinla.com%2Ffiles%2Fimagecache%2Fopengraph%2F%2Fsites%2Fwww.builtinla.com%2Ffiles%2Fslide.jpg"></article>]]></description>
+            <link>http://www.builtinla.com/2016/07/27/top-los-angeles-tech-offices?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
+            <guid isPermaLink="false">ce311313-2b92-4a91-afed-b7626f7fe24f</guid>
+            <pubDate>Wed, 03 Aug 2016 04:55:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Windows 10 anniversary update: The 10 best features]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.popularmechanics.com/science/a22094/video-explainer-double-slit-experiment/</link>
             <guid isPermaLink="false">34d60629-5a36-42fd-ada9-871d64fdcb13</guid>
             <pubDate>Sat, 30 Jul 2016 20:17:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A New App Works Like a Translation Tool for Emojis]]></title>
-            <description><![CDATA[<article><h1>A New App Works Like a Translation Tool for Emojis</h1><p>Dango suggests the perfect emojis for any situation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6fab7ded6ed0602bcb56547c64784f0/noop.png?input=http%3A%2F%2Fimages.mentalfloss.com%2Fsites%2Fdefault%2Ffiles%2Fprimary_143.png"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBuXgNJ?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">e8b01298-98ae-4f87-9683-88cf6196a5e8</guid>
-            <pubDate>Sat, 30 Jul 2016 19:54:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
