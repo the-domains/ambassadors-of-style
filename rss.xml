@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:55:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 05:02:11 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How Samsung plans its phones]]></title>
+            <description><![CDATA[<article><h1>How Samsung plans its phones</h1><p>The S7 and S7 Edge have lots in common with the 6 from last year, whereas the S6 was a really big change from the 5. So first of all, could you tell me about why Samsung made such a big design change from the S5 to S6?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09be94b19513e4993df9fedb2d7cf0c3/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F67Zis7NAzSxT4g5euhlHCn6Acjk%3D%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6870717%2FDSCF4068__1_.0.jpg"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBv6U7f?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">5442484a-a984-4251-aa51-72a366d3a568</guid>
+            <pubDate>Wed, 03 Aug 2016 05:02:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Office Cribs: 6 LA tech offices that'll give you office envy]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.builtinla.com/2016/07/28/tech-roundup?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
             <guid isPermaLink="false">59f782a9-f40a-47c1-8187-fcebf7a10bf2</guid>
             <pubDate>Mon, 01 Aug 2016 18:01:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Experiment That Blew Open Quantum Mechanics, Explained]]></title>
-            <description><![CDATA[<article><h1>The Experiment That Blew Open Quantum Mechanics, Explained</h1><p>The physics equations you learned in school don't work on the atomic scale. We have Newtonian physics to explain the world we can see and feel, and we have Einsteinian physics to explain the behavior of matter and light in the universe, but we observe a bunch of bizarre phenomena on the atomic scale that we can't explain yet with equations and mathematical laws.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2570020ac518f0177fd7dc23c9644758/noop.jpg?input=http%3A%2F%2Fpop.h-cdn.co%2Fassets%2F16%2F30%2F640x320%2Fgallery-1469731871-waveffe-4f7082d-intro.jpg"></article>]]></description>
-            <link>http://www.popularmechanics.com/science/a22094/video-explainer-double-slit-experiment/</link>
-            <guid isPermaLink="false">34d60629-5a36-42fd-ada9-871d64fdcb13</guid>
-            <pubDate>Sat, 30 Jul 2016 20:17:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
