@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:47:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 04:47:04 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[21 jobs where robots are already replacing humans]]></title>
+            <description><![CDATA[<article><h1>21 jobs where robots are already replacing humans</h1><p>Think your job is super-secure? Don't get too cozy.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cababf39a397759f7a57c184a78cb11/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBuyNfh.img%3Fh%3D373%26w%3D624%26m%3D6%26q%3D60%26o%3Dt%26l%3Df"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBv9Ldv?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">a9c527a5-122e-4d17-a893-27fa53c1d30c</guid>
+            <pubDate>Wed, 03 Aug 2016 04:46:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[China, Not Silicon Valley, Is Cutting Edge in Mobile Tech]]></title>
@@ -68,13 +75,6 @@
             <link>http://a.msn.com/r/2/BBv07Pb?m=en-us&amp;ocid=News</link>
             <guid isPermaLink="false">03d4f22f-b893-4001-9ed4-b5d85f7bd5e1</guid>
             <pubDate>Sat, 30 Jul 2016 19:54:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Most Popular Video Game the Year You Were Born]]></title>
-            <description><![CDATA[<article><h1>The Most Popular Video Game the Year You Were Born</h1><p>From pixels to polygons, here's what was destroying gamers' thumbs the year you were born.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/26fbe03ef0f61dccb883f8d77bcd49ca/noop.jpg?input=http%3A%2F%2Fpop.h-cdn.co%2Fassets%2F16%2F29%2F1469197990-supermario3.jpg"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBuX4jp?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">68b2416d-1307-4280-b60d-f567be9d202a</guid>
-            <pubDate>Sat, 30 Jul 2016 19:54:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
