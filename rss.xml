@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 04:47:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 04:54:07 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Windows 10 anniversary update: The 10 best features]]></title>
+            <description><![CDATA[<article><h1>Windows 10 anniversary update: The 10 best features</h1><p>In honour of Windows 10's first birthday, Microsoft is releasing an anniversary update to the software this week. Available from August 2, the update is free and features a number of upgrades to Microsoft's PC software, including selfie login for websites and apps, and an unlocked Cortana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0d0fa6ac2a7ec66fd9fffa3d2615a099/noop.jpg?input=http%3A%2F%2Fwww.telegraph.co.uk%2Fcontent%2Fdam%2Ftechnology%2F2016%2F07%2F26%2Fwindows10_3391142k-xlarge_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBv9DNP?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">f794ffe3-fa5c-4aa6-87a8-f53e1b071937</guid>
+            <pubDate>Wed, 03 Aug 2016 04:53:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[21 jobs where robots are already replacing humans]]></title>
@@ -68,13 +75,6 @@
             <link>http://a.msn.com/r/2/BBuXgNJ?m=en-us&amp;ocid=News</link>
             <guid isPermaLink="false">e8b01298-98ae-4f87-9683-88cf6196a5e8</guid>
             <pubDate>Sat, 30 Jul 2016 19:54:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You can buy a sentry robot for your home]]></title>
-            <description><![CDATA[<article><h1>You can buy a sentry robot for your home</h1><p>A company called iPatrol has released a sentry robot called Riley that will cruise around your home on tank tracks with an HD camera, but without the requisite weapons to deter intruders (unless the intruder is a small animal).</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2cd765f52c78912557879bded883b6b8/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FpT3_ciqsywYGLDuhnuvWLsVPsrY%3D%2F0x287%3A5472x3365%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50238977%2Friley.0.0.jpg"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBv07Pb?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">03d4f22f-b893-4001-9ed4-b5d85f7bd5e1</guid>
-            <pubDate>Sat, 30 Jul 2016 19:54:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
