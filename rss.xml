@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:29:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 08:31:50 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How these LA startup giants hired their game-changing developers]]></title>
+            <description><![CDATA[<article><h1>How these LA startup giants hired their game-changing developers</h1><p>Entrepreneurs are often seen as tech rockstars due to their grandiose keynotes and lavish lifestyles. But just like their frontmen counterparts, entrepreneurs often overshadow the true geniuses who ar</p></article>]]></description>
+            <link>http://www.builtinla.com/2016/07/28/la-startup-hired-early-stage-developers?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
+            <guid isPermaLink="false">31bea405-8431-4b71-a59d-8012af7d8e92</guid>
+            <pubDate>Wed, 03 Aug 2016 08:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Teachers learn about the value of video games in the classroom]]></title>
@@ -68,13 +75,6 @@
             <link>http://a.msn.com/r/2/BBv9Ldv?m=en-us&amp;ocid=News</link>
             <guid isPermaLink="false">a9c527a5-122e-4d17-a893-27fa53c1d30c</guid>
             <pubDate>Wed, 03 Aug 2016 04:46:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[China, Not Silicon Valley, Is Cutting Edge in Mobile Tech]]></title>
-            <description><![CDATA[<article><h1>China, Not Silicon Valley, Is Cutting Edge in Mobile Tech</h1><p>The future of online payments and engagements can be found at Liu Zheng's noodle shop in central Beijing. Liu Xiu'e, 60, and her neighbor, Zhang Lixin, 55, read about the noodle shop on WeChat. Then they ordered and paid for their lunches and took and posted selfies of themselves outside the restaurant, all using the same app.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/661b733a70becd9f7b3e184bfaf67ae3/noop.jpg?input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F08%2F02%2Fbusiness%2F03chinainternet1%2F00CHINAINTERNET-facebookJumbo.jpg"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBv9UYX?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">5fbedb8d-bac3-4e84-b229-bca1735f46f3</guid>
-            <pubDate>Wed, 03 Aug 2016 04:46:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
