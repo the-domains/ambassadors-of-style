@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 02:08:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 02:08:46 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Economist says uploaded brains will take over all jobs within 100 years]]></title>
+            <description><![CDATA[<article><h1>Economist says uploaded brains will take over all jobs within 100 years</h1><p>Eugene Sergeev / Shutterstock We've all heard wild visions of the future. Hearing them from an economist, in a new book from Oxford University Press, makes them seem unusually real. Robin Hanson predicts in " The Age of Em " that we'll develop cheap technology for emulating brains on computers in the next 100 years.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fe910b65ef765cd172630dcd5d945e4d/noop.jpg?input=http%3A%2F%2Fstatic1.techinsider.io%2Fimage%2F57a20128db5ce9ad018b46d9-2400%2Fshutterstock_319781462.jpg"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBvcIqi?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">2a877552-89e3-4a3f-b4ec-5ec44b5ecd96</guid>
+            <pubDate>Fri, 05 Aug 2016 02:08:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[These viral selfie apps with 1 billion downloads are shaping China's start-up culture]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.chron.com%2fneighborhood%2fwoodlands%2fnews%2farticle%2fSummer-camp-sessions-help-boost-kids-use-of-9054069.php&amp;c=6562005575289124248&amp;mkt=en-us</link>
             <guid isPermaLink="false">028c9efd-fb49-4187-a9e1-a55fe36b802b</guid>
             <pubDate>Wed, 03 Aug 2016 08:24:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Samsung plans its phones]]></title>
-            <description><![CDATA[<article><h1>How Samsung plans its phones</h1><p>The S7 and S7 Edge have lots in common with the 6 from last year, whereas the S6 was a really big change from the 5. So first of all, could you tell me about why Samsung made such a big design change from the S5 to S6?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/09be94b19513e4993df9fedb2d7cf0c3/noop.jpg?input=https%3A%2F%2Fcdn2.vox-cdn.com%2Fthumbor%2F67Zis7NAzSxT4g5euhlHCn6Acjk%3D%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6870717%2FDSCF4068__1_.0.jpg"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBv6U7f?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">5442484a-a984-4251-aa51-72a366d3a568</guid>
-            <pubDate>Wed, 03 Aug 2016 05:02:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
