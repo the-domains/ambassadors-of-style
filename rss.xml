@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 02:08:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 02:08:47 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Interesting facts about the internet]]></title>
+            <description><![CDATA[<article><h1>Interesting facts about the internet</h1><p>The world's first website, made online by CERN scientist Tin Berners-Lee on Aug. 6, 1991, to educate internet greenhorns about the World Wide Web, turns 25 this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42a27e54a19c5b909e7b899c50de55ed/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBva0v9.img%3Fh%3D373%26w%3D624%26m%3D6%26q%3D60%26o%3Dt%26l%3Df"></article>]]></description>
+            <link>http://a.msn.com/r/2/BBvfCAx?m=en-us&amp;ocid=News</link>
+            <guid isPermaLink="false">6a6664f1-7929-43aa-92e9-e231611d1fb1</guid>
+            <pubDate>Fri, 05 Aug 2016 02:08:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Economist says uploaded brains will take over all jobs within 100 years]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.builtinla.com/2016/07/26/la-clean-tech-companies-to-know?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
             <guid isPermaLink="false">219cf2b5-4cbd-4d34-a009-cfd2b40eeca4</guid>
             <pubDate>Wed, 03 Aug 2016 08:24:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Summer camp sessions help boost kids' use of science, technology, engineering and math programs]]></title>
-            <description><![CDATA[<article><h1>Summer camp sessions help boost kids' use of science, technology, engineering and math programs</h1><p>Using basic knowledge of circuits, her 9- to 12-year-olds were able to create and program musical bananas, paper remote controllers and even a workable dancing stage, where kids can sharpen their footwork by dancing to scrolling arrows on a screen that translate onto the dance pad.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7637c98634bc1ca209bce6a5281b7ac9/noop.jpg?input=http%3A%2F%2Fww2.hdnux.com%2Fphotos%2F50%2F63%2F25%2F10696013%2F3%2FrawImage.jpg"></article>]]></description>
-            <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.chron.com%2fneighborhood%2fwoodlands%2fnews%2farticle%2fSummer-camp-sessions-help-boost-kids-use-of-9054069.php&amp;c=6562005575289124248&amp;mkt=en-us</link>
-            <guid isPermaLink="false">028c9efd-fb49-4187-a9e1-a55fe36b802b</guid>
-            <pubDate>Wed, 03 Aug 2016 08:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
