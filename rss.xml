@@ -4,7 +4,7 @@
         <description><![CDATA[Ambassadors of Style]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 17:34:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 08:19:51 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Dot-drawing with drones]]></title>
+            <description><![CDATA[<article><h1>Dot-drawing with drones</h1><p>You may have heard of plans to use drones for delivering packages, monitoring wildlife, or tracking storms. But painting murals? That's the idea behind a project in Paul Kry's laboratory at McGill University's School of Computer Science. (MRO/Multimedia) More info: http://www.mcgill.ca/newsroom/channels/news/dot-drawing-drones-261928</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e994d1914782c6abe7a821f5e8d98cd0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FCP-fBvcUAls%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=CP-fBvcUAls&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">815ad99c-dc7f-475e-87e7-dfa90cb15d94</guid>
+            <pubDate>Mon, 22 Aug 2016 08:19:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Why most people are bad at mathematics - Neil deGrasse Tyson asks Richard Dawkins]]></title>
-            <description><![CDATA[<article><h1>Why most people are bad at mathematics - Neil deGrasse Tyson asks Richard Dawkins</h1><p>Why people are bad at mathematics? Asks neil degrasse Tyson to Richard dawkins. For Full Video - https://www.youtube.com/watch?v=8TlOSyJjCjc Some other useful links about why people are bad at maths- http://www.telegraph.co.uk/education/educationnews/8693105/People-are-born-bad-at-maths.html http://www.theguardian.com/commentisfree/2015/apr/29/people-hate-maths-my-plan-make-it-work-for-them https://www.quora.com/Why-do-people-find-mathematics-difficult http://healthland.time.com/2011/08/11/study-people-may-be-born-good-or-bad-at-math/</p></article>]]></description>
+            <description><![CDATA[<article><h1>Why most people are bad at mathematics - Neil deGrasse Tyson asks Richard Dawkins</h1><p>Why people are bad at mathematics? Asks neil degrasse Tyson to Richard dawkins. For Full Video - https://www.youtube.com/watch?v=8TlOSyJjCjc Some other useful links about why people are bad at maths- http://www.telegraph.co.uk/education/educationnews/8693105/People-are-born-bad-at-maths.html http://www.theguardian.com/commentisfree/2015/apr/29/people-hate-maths-my-plan-make-it-work-for-them https://www.quora.com/Why-do-people-find-mathematics-difficult http://healthland.time.com/2011/08/11/study-people-may-be-born-good-or-bad-at-math/</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/887f9f4b11cf3f33d0533415b37dde2f/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FfbrQ8F-LQNs%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=fbrQ8F-LQNs</link>
             <guid isPermaLink="false">66bf7edd-6a16-46b9-b9d7-95badf45c6af</guid>
             <pubDate>Sat, 06 Aug 2016 17:33:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.troyrecord.com%2farticle%2fTR%2f20160802%2fNEWS%2f160809947&amp;c=13469536624124023854&amp;mkt=en-us</link>
             <guid isPermaLink="false">bfa74867-5b21-47a9-b886-b4f8487ab0ec</guid>
             <pubDate>Wed, 03 Aug 2016 08:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snapchat geofilters could become the new hashtag]]></title>
-            <description><![CDATA[<article><h1>Snapchat geofilters could become the new hashtag</h1><p>The tailored graphic frames for smartphone photos on Snapchat are popping up at summer weddings, family reunions and birthday parties. Brands like McDonald's and Starbucks are using them at concerts and sporting events.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/94a45a057d7a5cab11af1e20ebcffe80/noop.jpg?input=http%3A%2F%2Fwww.gannett-cdn.com%2F-mm-%2F32eef63d40827ec29609c5304c4ae0581300df95%2Fc%3D0-249-4898-3016%26r%3Dx1683%26c%3D3200x1680%2Flocal%2F-%2Fmedia%2F2016%2F07%2F21%2FUSATODAY%2FUSATODAY%2F636047272703205960-DSC00025.JPG"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBv6Ety?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">6a03511a-3e94-423a-b0f8-85867d9c1a3a</guid>
-            <pubDate>Wed, 03 Aug 2016 08:28:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
