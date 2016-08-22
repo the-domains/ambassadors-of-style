@@ -1,16 +1,16 @@
-typography_spectrum: 0.6006983136758208
+typography_spectrum: 0.5630866221617907
 color:
-  brandStrength: 0.3960431437008083
-  lightness: 0.8752877654042095
-  saturation: 0.3110378859564662
-  rhythmicContrast: 0.20466641895473003
+  brandStrength: 0.3216623468324542
+  lightness: 0.49288118234835565
+  saturation: 0.609331076964736
+  rhythmicContrast: 0.3414995337370783
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.021829705219715834
+layout_spectrum: 0.644073466071859
 logo: null
 name: Ambassadors of Style
 navigation:
