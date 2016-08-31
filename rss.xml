@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:28:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:28:17 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Real-Life 'Tony Stark' Builds Motorcycle From A Broken Car To Escape Desert - DesignTAXI.com]]></title>
+            <description><![CDATA[<article><h1>Real-Life 'Tony Stark' Builds Motorcycle From A Broken Car To Escape Desert - DesignTAXI.com</h1><p>We all know that Elon Musk is considered to be the real-life Tony Stark from Iron Man. But Frenchman Emile Leray gives Musk a run for his...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3c0fd574086077ee9ffd050e801ec14/noop.jpg?input=http%3A%2F%2Fdesigntaxi.com%2Fuserfiles%2Fnews%2Fthumbnail%2F352610.jpg"></article>]]></description>
+            <link>http://designtaxi.com/news/352610/Real-Life-Tony-Stark-Builds-Motorcycle-From-A-Broken-Car-To-Escape-Desert/</link>
+            <guid isPermaLink="false">af0b1928-50a0-4199-8318-a1797847b76d</guid>
+            <pubDate>Mon, 29 Aug 2016 07:28:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thoughts on The Happy Show Exhibit]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.msn.com/en-us/travel/article/if-your-flight-is-delayed-it%E2%80%99s-probably-not-because-of-bad-weather/ar-BBw181s?li=AA5hNe&amp;ocid=spartanntp</link>
             <guid isPermaLink="false">7765260a-f86c-457f-afe0-dfd2f1418ef6</guid>
             <pubDate>Mon, 29 Aug 2016 07:27:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bluetooth Selfie Pen @ Sharper Image]]></title>
-            <description><![CDATA[<article><h1>Bluetooth Selfie Pen @ Sharper Image</h1><p>Bluetooth Selfie Pen Take better selfies with the Bluetooth Selfie Pen! It controls the camera on your smartphone or tablet, so you can capture awesome group shots!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1800bd323c413ea286051425ec78e667/noop.jpg?input=http%3A%2F%2Fcdn1.sharperimage.com%2Fsi%2Fimg%2FproductImages%2F203951%2F203951-p1.jpg"></article>]]></description>
-            <link>http://www.sharperimage.com/si/view/product/Bluetooth+Selfie+Pen/203951?trail=</link>
-            <guid isPermaLink="false">8bfb5266-cc0a-426f-b839-f04ee846b2eb</guid>
-            <pubDate>Mon, 29 Aug 2016 07:27:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
