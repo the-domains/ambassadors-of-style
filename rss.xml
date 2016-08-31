@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:28:14 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Louisiana State Museum and Sports Hall of Fame]]></title>
+            <description><![CDATA[<article><h1>Louisiana State Museum and Sports Hall of Fame</h1><p>The museum is configured to interpret athletics as a component of cultural history. While sports and regional history may appeal to different audiences, the exhibits and configuration explore interconnections between the two. The spaces flow visually and physically together, arranged to accommodate state-of-the-art exhibits, education, and assembly and support functions.</p></article>]]></description>
+            <link>http://www.knstrct.com/architecture-blog/2013/08/20/louisiana-state-museum-and-sports-hall-of-fame</link>
+            <guid isPermaLink="false">72afc1f9-08fb-4ce8-8c8c-c45e3d78202d</guid>
+            <pubDate>Mon, 29 Aug 2016 07:27:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[There's a productive way to approach wasting time online]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=CP-fBvcUAls&amp;feature=youtu.be</link>
             <guid isPermaLink="false">815ad99c-dc7f-475e-87e7-dfa90cb15d94</guid>
             <pubDate>Mon, 22 Aug 2016 08:19:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why most people are bad at mathematics - Neil deGrasse Tyson asks Richard Dawkins]]></title>
-            <description><![CDATA[<article><h1>Why most people are bad at mathematics - Neil deGrasse Tyson asks Richard Dawkins</h1><p>Why people are bad at mathematics? Asks neil degrasse Tyson to Richard dawkins. For Full Video - https://www.youtube.com/watch?v=8TlOSyJjCjc Some other useful links about why people are bad at maths- http://www.telegraph.co.uk/education/educationnews/8693105/People-are-born-bad-at-maths.html http://www.theguardian.com/commentisfree/2015/apr/29/people-hate-maths-my-plan-make-it-work-for-them https://www.quora.com/Why-do-people-find-mathematics-difficult http://healthland.time.com/2011/08/11/study-people-may-be-born-good-or-bad-at-math/</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/887f9f4b11cf3f33d0533415b37dde2f/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FfbrQ8F-LQNs%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fbrQ8F-LQNs</link>
-            <guid isPermaLink="false">66bf7edd-6a16-46b9-b9d7-95badf45c6af</guid>
-            <pubDate>Sat, 06 Aug 2016 17:33:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
