@@ -1,4 +1,3 @@
-layout_spectrum: 0.32827117503620684
 typography_spectrum: 0.6405087155289948
 color:
   brandStrength: 0.35812783846631646
@@ -11,7 +10,9 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-logo: null
+layout_spectrum: 0.32827117503620684
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3d0cd92-289a-4644-849d-a618e1b5d0cd.jpg
 name: Ambassadors of Style
 navigation:
   - name: About
