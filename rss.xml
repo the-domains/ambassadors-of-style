@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:28:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:28:16 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Thoughts on The Happy Show Exhibit]]></title>
+            <description><![CDATA[<article><h1>Thoughts on The Happy Show Exhibit</h1><p>Recently, a few of us went to the Design Exchange winter exhibit: Stefan Sagmeister, The Happy Show. There has been a lot of buzz this past year over Sagmeister's upcoming feature film The Happy Film. Couple this with the sneak peek we were given during Sagmeister's talk at Design Thinkers last year, and we were pretty stoked to go check it out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eaf089194b8177b143152e7734644d93/noop.jpg?input=http%3A%2F%2Fwww.jetcooper.com%2Fwp-content%2Fuploads%2F2013%2F02%2FBikeNeonSign4_1800_1114_751-880x544.jpg"></article>]]></description>
+            <link>http://www.jetcooper.com/blog/happy-show/</link>
+            <guid isPermaLink="false">016f75a0-cc42-4f25-8d00-10abe3508427</guid>
+            <pubDate>Mon, 29 Aug 2016 07:28:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Louisiana State Museum and Sports Hall of Fame]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.sharperimage.com/si/view/product/Bluetooth+Selfie+Pen/203951?trail=</link>
             <guid isPermaLink="false">8bfb5266-cc0a-426f-b839-f04ee846b2eb</guid>
             <pubDate>Mon, 29 Aug 2016 07:27:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dot-drawing with drones]]></title>
-            <description><![CDATA[<article><h1>Dot-drawing with drones</h1><p>You may have heard of plans to use drones for delivering packages, monitoring wildlife, or tracking storms. But painting murals? That's the idea behind a project in Paul Kry's laboratory at McGill University's School of Computer Science. (MRO/Multimedia) More info: http://www.mcgill.ca/newsroom/channels/news/dot-drawing-drones-261928</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e994d1914782c6abe7a821f5e8d98cd0/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FCP-fBvcUAls%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=CP-fBvcUAls&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">815ad99c-dc7f-475e-87e7-dfa90cb15d94</guid>
-            <pubDate>Mon, 22 Aug 2016 08:19:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
