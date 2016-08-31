@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:27:44 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[If Your Flight Is Delayed, It's Probably Not Because of Bad Weather]]></title>
+            <description><![CDATA[<article><h1>If Your Flight Is Delayed, It's Probably Not Because of Bad Weather</h1><p>Don't blame Mother Nature.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e516eb0606bd4fd8b44d7e511998f4e9/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBw18PW.img%3Fh%3D200%26w%3D300%26m%3D6%26q%3D60%26o%3Df%26l%3Df%26x%3D787%26y%3D669"></article>]]></description>
+            <link>http://www.msn.com/en-us/travel/article/if-your-flight-is-delayed-it%E2%80%99s-probably-not-because-of-bad-weather/ar-BBw181s?li=AA5hNe&amp;ocid=spartanntp</link>
+            <guid isPermaLink="false">7765260a-f86c-457f-afe0-dfd2f1418ef6</guid>
+            <pubDate>Mon, 29 Aug 2016 07:27:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bluetooth Selfie Pen @ Sharper Image]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.deskeng.com%2fde%2fgoing-vertical-with-engineering-software%2f&amp;c=7912938717547791719&amp;mkt=en-us</link>
             <guid isPermaLink="false">9287c11d-e5b7-4497-bea9-1ef49b151fa5</guid>
             <pubDate>Wed, 03 Aug 2016 08:32:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How these LA startup giants hired their game-changing developers]]></title>
-            <description><![CDATA[<article><h1>How these LA startup giants hired their game-changing developers</h1><p>Entrepreneurs are often seen as tech rockstars due to their grandiose keynotes and lavish lifestyles. But just like their frontmen counterparts, entrepreneurs often overshadow the true geniuses who ar</p></article>]]></description>
-            <link>http://www.builtinla.com/2016/07/28/la-startup-hired-early-stage-developers?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
-            <guid isPermaLink="false">31bea405-8431-4b71-a59d-8012af7d8e92</guid>
-            <pubDate>Wed, 03 Aug 2016 08:31:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
