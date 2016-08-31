@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:28:26 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[拡大画像]]></title>
+            <description><![CDATA[<article><h1>拡大画像</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c8753e7467f435dc1bc84528017bca0a/noop.jpg?input=http%3A%2F%2Frobot.watch.impress.co.jp%2Fcda%2Fstatic%2Fimage%2F2007%2F05%2F18%2Frobot03_logo.jpg"></article>]]></description>
+            <link>http://robot.watch.impress.co.jp/cda/parts/image_for_link/13976-484-2-1.html</link>
+            <guid isPermaLink="false">3c56081d-b063-4117-83c5-aae13a23bec3</guid>
+            <pubDate>Mon, 29 Aug 2016 07:28:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[kvant-motorbike_ESCOc_58.jpg (image)]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.msn.com/en-us/news/games/no-mans-skys-greatest-resource-is-isolation/ar-BBw5ZGf?li=AAfq3b1&amp;ocid=spartanntp</link>
             <guid isPermaLink="false">a22614c7-9d8d-498e-8315-dcacdb6eeb09</guid>
             <pubDate>Mon, 29 Aug 2016 07:27:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[5 things to consider before you buy a portable drive]]></title>
-            <description><![CDATA[<article><h1>5 things to consider before you buy a portable drive</h1><p>CNET editor Dong Ngo explains the simplicity and practicality of portable drives and how to choose one that best fits your needs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3921ea592d37d3c43bafa5eca61694ca/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBpfLuE.img%3Fh%3D250%26w%3D300%26m%3D1%26q%3D60%26b%3Dwhite"></article>]]></description>
-            <link>http://www.msn.com/en-us/news/technology/5-things-to-consider-before-you-buy-a-portable-drive/ar-AAicuIi?li=AA4Zoy&amp;ocid=spartanntp</link>
-            <guid isPermaLink="false">d7950a2b-8d5a-4367-8804-44a9d1d7350a</guid>
-            <pubDate>Mon, 29 Aug 2016 07:27:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
