@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:40:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 08:13:21 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[VR game developers prefer the HTC Vive, grapple with nausea]]></title>
+            <description><![CDATA[<article><h1>VR game developers prefer the HTC Vive, grapple with nausea</h1><p>The study doesn't explain why the Vive is getting more support, although its technology may play an important role. While Oculus is largely focused on sit-down VR with conventional controls (its motion controller won't arrive until later this year), the Vive shipped from the start with support for room-scale VR and motion input.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a3009d7d414f1ee8e058fb415fd079a/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3A1e16f1f1053a28299b825c820b7b9b4b56bdbd34%2Ft%3A1200%2C630%2Fq%3A80%2F%3Furl%3Dhttps%253A%252F%252Fs.aolcdn.com%252Fdims-shared%252Fdims3%252FGLOB%252Fcrop%252F1400x933%252B0%252B0%252Fresize%252F1600x1066%2521%252Fformat%252Fjpg%252Fquality%252F85%252Fhttps%253A%252F%252Fs.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F1d50b36e0f1e79f8b97b38be1a3bf963%252F203641282%252FHTC%252BVive%252Bgallery%252B12.jpg"></article>]]></description>
+            <link>https://www.engadget.com/2016/08/24/vr-game-developers-reveal-preferences/</link>
+            <guid isPermaLink="false">31601b33-078a-484b-8e61-0efd566dca38</guid>
+            <pubDate>Mon, 29 Aug 2016 08:13:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Quad modular storage system]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.knstrct.com/architecture-blog/2013/08/20/louisiana-state-museum-and-sports-hall-of-fame</link>
             <guid isPermaLink="false">72afc1f9-08fb-4ce8-8c8c-c45e3d78202d</guid>
             <pubDate>Mon, 29 Aug 2016 07:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There's a productive way to approach wasting time online]]></title>
-            <description><![CDATA[<article><h1>There's a productive way to approach wasting time online</h1><p>There is a productivity-destroying epidemic infiltrating workplaces across the world, and chances are you're guilty of it. It's called "cyberloafing"-the act of wasting time on...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f0fef19e89cc6172affb582afec91b5/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAAgkXNR.img%3Fh%3D250%26w%3D300%26m%3D1%26q%3D60%26b%3Dwhite"></article>]]></description>
-            <link>http://www.msn.com/en-us/news/technology/there%E2%80%99s-a-productive-way-to-approach-wasting-time-online/ar-AAibMy0?li=AA4Zoy&amp;ocid=spartanntp</link>
-            <guid isPermaLink="false">06b7d09c-8f84-46f5-86be-44c7bca369f1</guid>
-            <pubDate>Mon, 29 Aug 2016 07:27:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
