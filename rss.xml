@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 08:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 08:13:39 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Samsung Files Patent for Sentry Robot Turret]]></title>
+            <description><![CDATA[<article><h1>Samsung Files Patent for Sentry Robot Turret</h1><p>Despite the occasional banged drum from people who have watched Robocop too many times, autonomous robots will not be allowed to shoot humans with weapons any time soon. We can't even make convincing artificial intelligence in our video games yet. You expect us to be able to create a bot that can distinguish threat levels from humans with executive certainty?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/32dfb628522b80ed0bc91ea09b1b01fc/noop.jpg?input=http%3A%2F%2Fgadgets.boingboing.net%2Fgimages%2Fsamsung-robot-sentry.jpg"></article>]]></description>
+            <link>http://gadgets.boingboing.net/2007/09/06/samsung-files-patent.html</link>
+            <guid isPermaLink="false">4420e00e-7516-4142-b4ea-5fecd3d8bb4a</guid>
+            <pubDate>Mon, 29 Aug 2016 08:13:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://2.bp.blogspot.com/_7gYNb3GSh4M/Sg7rII3pfGI/AAAAAAAAMtA/4MJ2qyAoJKw/s1600-h/kvant-motorbike_ESCOc_58.jpg</link>
             <guid isPermaLink="false">33c08edc-4ece-41d4-b697-3b642507c157</guid>
             <pubDate>Mon, 29 Aug 2016 07:28:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Real-Life 'Tony Stark' Builds Motorcycle From A Broken Car To Escape Desert - DesignTAXI.com]]></title>
-            <description><![CDATA[<article><h1>Real-Life 'Tony Stark' Builds Motorcycle From A Broken Car To Escape Desert - DesignTAXI.com</h1><p>We all know that Elon Musk is considered to be the real-life Tony Stark from Iron Man. But Frenchman Emile Leray gives Musk a run for his...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a3c0fd574086077ee9ffd050e801ec14/noop.jpg?input=http%3A%2F%2Fdesigntaxi.com%2Fuserfiles%2Fnews%2Fthumbnail%2F352610.jpg"></article>]]></description>
-            <link>http://designtaxi.com/news/352610/Real-Life-Tony-Stark-Builds-Motorcycle-From-A-Broken-Car-To-Escape-Desert/</link>
-            <guid isPermaLink="false">af0b1928-50a0-4199-8318-a1797847b76d</guid>
-            <pubDate>Mon, 29 Aug 2016 07:28:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
