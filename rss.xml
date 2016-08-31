@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 08:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 08:13:27 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://farm1.static.flickr.com/176/431267829_6cd0943479_o.jpg"></article>]]></description>
+            <link>http://farm1.static.flickr.com/176/431267829_6cd0943479_o.jpg</link>
+            <guid isPermaLink="false">086e5587-5464-400a-b13c-5071e0bbc429</guid>
+            <pubDate>Mon, 29 Aug 2016 08:13:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ten-ei Abe]]></title>
@@ -68,13 +75,6 @@
             <link>http://designtaxi.com/news/352610/Real-Life-Tony-Stark-Builds-Motorcycle-From-A-Broken-Car-To-Escape-Desert/</link>
             <guid isPermaLink="false">af0b1928-50a0-4199-8318-a1797847b76d</guid>
             <pubDate>Mon, 29 Aug 2016 07:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Thoughts on The Happy Show Exhibit]]></title>
-            <description><![CDATA[<article><h1>Thoughts on The Happy Show Exhibit</h1><p>Recently, a few of us went to the Design Exchange winter exhibit: Stefan Sagmeister, The Happy Show. There has been a lot of buzz this past year over Sagmeister's upcoming feature film The Happy Film. Couple this with the sneak peek we were given during Sagmeister's talk at Design Thinkers last year, and we were pretty stoked to go check it out.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/eaf089194b8177b143152e7734644d93/noop.jpg?input=http%3A%2F%2Fwww.jetcooper.com%2Fwp-content%2Fuploads%2F2013%2F02%2FBikeNeonSign4_1800_1114_751-880x544.jpg"></article>]]></description>
-            <link>http://www.jetcooper.com/blog/happy-show/</link>
-            <guid isPermaLink="false">016f75a0-cc42-4f25-8d00-10abe3508427</guid>
-            <pubDate>Mon, 29 Aug 2016 07:28:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
