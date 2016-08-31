@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ambassadors of Style]]></title>
-        <description><![CDATA[Ambassadors of Style]]></description>
+        <title><![CDATA[AMBASSADORS OF STYLE]]></title>
+        <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Aug 2016 08:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:27:25 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bluetooth Selfie Pen @ Sharper Image]]></title>
+            <description><![CDATA[<article><h1>Bluetooth Selfie Pen @ Sharper Image</h1><p>Bluetooth Selfie Pen Take better selfies with the Bluetooth Selfie Pen! It controls the camera on your smartphone or tablet, so you can capture awesome group shots!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1800bd323c413ea286051425ec78e667/noop.jpg?input=http%3A%2F%2Fcdn1.sharperimage.com%2Fsi%2Fimg%2FproductImages%2F203951%2F203951-p1.jpg"></article>]]></description>
+            <link>http://www.sharperimage.com/si/view/product/Bluetooth+Selfie+Pen/203951?trail=</link>
+            <guid isPermaLink="false">8bfb5266-cc0a-426f-b839-f04ee846b2eb</guid>
+            <pubDate>Mon, 29 Aug 2016 07:27:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dot-drawing with drones]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.builtinla.com/2016/07/28/la-startup-hired-early-stage-developers?utm_source=Built+In+LA+Weekly+Newsletter&amp;utm_campaign=a724c7a290-Built_In_LA_Newsletter_4_21_16&amp;utm_medium=email&amp;utm_term=0_72db0551b7-a724c7a290-63818973</link>
             <guid isPermaLink="false">31bea405-8431-4b71-a59d-8012af7d8e92</guid>
             <pubDate>Wed, 03 Aug 2016 08:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Teachers learn about the value of video games in the classroom]]></title>
-            <description><![CDATA[<article><h1>Teachers learn about the value of video games in the classroom</h1><p>TROY >> Many educators throughout the Capital Region were invited to the 10th Annual Games in Education symposium, which took place at Troy Middle School this year. The Games in Education Symposium event is a multi-day event, which focuses on the topic of using video games to supplement and inspire in-classroom education.</p></article>]]></description>
-            <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.troyrecord.com%2farticle%2fTR%2f20160802%2fNEWS%2f160809947&amp;c=13469536624124023854&amp;mkt=en-us</link>
-            <guid isPermaLink="false">bfa74867-5b21-47a9-b886-b4f8487ab0ec</guid>
-            <pubDate>Wed, 03 Aug 2016 08:29:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
