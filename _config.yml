@@ -11,8 +11,7 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.32827117503620684
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3d0cd92-289a-4644-849d-a618e1b5d0cd.jpg
+logo: null
 name: Ambassadors of Style
 navigation:
   - name: About
@@ -38,5 +37,5 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fffa236-16a8-4c46-9ced-5cba0317bfd0.png
-title: AMBASSADORS OF STYLE
+title: ''
 description: 'The baddest of the bad, the coolest of the cool'
