@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:27:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:27:52 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[5 things to consider before you buy a portable drive]]></title>
+            <description><![CDATA[<article><h1>5 things to consider before you buy a portable drive</h1><p>CNET editor Dong Ngo explains the simplicity and practicality of portable drives and how to choose one that best fits your needs.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3921ea592d37d3c43bafa5eca61694ca/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBpfLuE.img%3Fh%3D250%26w%3D300%26m%3D1%26q%3D60%26b%3Dwhite"></article>]]></description>
+            <link>http://www.msn.com/en-us/news/technology/5-things-to-consider-before-you-buy-a-portable-drive/ar-AAicuIi?li=AA4Zoy&amp;ocid=spartanntp</link>
+            <guid isPermaLink="false">d7950a2b-8d5a-4367-8804-44a9d1d7350a</guid>
+            <pubDate>Mon, 29 Aug 2016 07:27:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[If Your Flight Is Delayed, It's Probably Not Because of Bad Weather]]></title>
@@ -68,13 +75,6 @@
             <link>http://a.msn.com/r/2/BBvd7CV?m=en-us&amp;ocid=News</link>
             <guid isPermaLink="false">d84b19de-f440-4787-b231-508bdeca5ce6</guid>
             <pubDate>Fri, 05 Aug 2016 02:08:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Going Vertical with Engineering Software]]></title>
-            <description><![CDATA[<article><h1>Going Vertical with Engineering Software</h1><p>n the beginning, AutoCAD was the same. Whether you used it for architecture, industrial design, mechanical design or electrical design, you used the same 2D drafting and drawing features. Working with a product built for the widest possible horizontal, you learned to come up with creative solutions (or clumsy workarounds) to accomplish the tasks unique to your discipline, domain or niche.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/19826e60f11b9af92ca73062b005a750/noop.jpg?input=http%3A%2F%2Fwww.deskeng.com%2Fde%2Fwp-content%2Fuploads%2F2016%2F08%2FDassault-LHP-Cave-1-hi-res-a.jpg"></article>]]></description>
-            <link>http://www.bing.com/news/apiclick.aspx?ref=BDIGeneric&amp;aid=C98EA5B0842DBB9405BBF071E1DA7651077B1B5B&amp;tid=231271D3C4CB4514A07073A6D882AA6B&amp;url=http%3a%2f%2fwww.deskeng.com%2fde%2fgoing-vertical-with-engineering-software%2f&amp;c=7912938717547791719&amp;mkt=en-us</link>
-            <guid isPermaLink="false">9287c11d-e5b7-4497-bea9-1ef49b151fa5</guid>
-            <pubDate>Wed, 03 Aug 2016 08:32:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
