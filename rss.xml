@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:28:12 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There's a productive way to approach wasting time online]]></title>
+            <description><![CDATA[<article><h1>There's a productive way to approach wasting time online</h1><p>There is a productivity-destroying epidemic infiltrating workplaces across the world, and chances are you're guilty of it. It's called "cyberloafing"-the act of wasting time on...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1f0fef19e89cc6172affb582afec91b5/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FAAgkXNR.img%3Fh%3D250%26w%3D300%26m%3D1%26q%3D60%26b%3Dwhite"></article>]]></description>
+            <link>http://www.msn.com/en-us/news/technology/there%E2%80%99s-a-productive-way-to-approach-wasting-time-online/ar-AAibMy0?li=AA4Zoy&amp;ocid=spartanntp</link>
+            <guid isPermaLink="false">06b7d09c-8f84-46f5-86be-44c7bca369f1</guid>
+            <pubDate>Mon, 29 Aug 2016 07:27:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=fbrQ8F-LQNs</link>
             <guid isPermaLink="false">66bf7edd-6a16-46b9-b9d7-95badf45c6af</guid>
             <pubDate>Sat, 06 Aug 2016 17:33:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Interesting facts about the internet]]></title>
-            <description><![CDATA[<article><h1>Interesting facts about the internet</h1><p>The world's first website, made online by CERN scientist Tin Berners-Lee on Aug. 6, 1991, to educate internet greenhorns about the World Wide Web, turns 25 this year.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/42a27e54a19c5b909e7b899c50de55ed/noop.img?input=http%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBBva0v9.img%3Fh%3D373%26w%3D624%26m%3D6%26q%3D60%26o%3Dt%26l%3Df"></article>]]></description>
-            <link>http://a.msn.com/r/2/BBvfCAx?m=en-us&amp;ocid=News</link>
-            <guid isPermaLink="false">6a6664f1-7929-43aa-92e9-e231611d1fb1</guid>
-            <pubDate>Fri, 05 Aug 2016 02:08:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
