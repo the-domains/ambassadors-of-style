@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 17:44:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 19:13:13 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kay Rosen: Selected Work]]></title>
+            <description><![CDATA[<article><h1>Kay Rosen: Selected Work</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/864a150cc1c28464358083b6212959e3/noop.jpg?input=http%3A%2F%2Fwww.kayrosen.com%2Fart%2F15-hi-la.jpg"></article>]]></description>
+            <link>http://www.kayrosen.com/art/15-hi-la.html</link>
+            <guid isPermaLink="false">28dfaa15-aeda-4b10-8b44-4b079fa57d02</guid>
+            <pubDate>Mon, 29 Aug 2016 19:12:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Навигационная система для бомбардировки]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.behance.net/Gallery/Quad-modular-storage-module/65029</link>
             <guid isPermaLink="false">d13e25e8-9899-45bb-ac0f-db31e54d0f8a</guid>
             <pubDate>Mon, 29 Aug 2016 07:39:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[you're a loop: your heart beat and nervous system]]></title>
-            <description><![CDATA[<article><h1>you're a loop: your heart beat and nervous system</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5800476fbe6712782c155d5c14d1f83c/croprotate.jpg?cropheight=564&cropwidth=1024&degrees=0&input=https%3A%2F%2Ffarm3.staticflickr.com%2F2253%2F2039548409_2e67b4c6e7_b.jpg&x=0&y=122"></article>]]></description>
-            <link>https://www.flickr.com/photos/fish2000/2039548409/in/set-72157603214192550/</link>
-            <guid isPermaLink="false">dc576622-4505-4b4d-b1ea-001449e2ab8b</guid>
-            <pubDate>Mon, 29 Aug 2016 07:39:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
