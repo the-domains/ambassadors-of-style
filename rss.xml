@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 07:39:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 07:40:11 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[you're a loop: your heart beat and nervous system]]></title>
+            <description><![CDATA[<article><h1>you're a loop: your heart beat and nervous system</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5800476fbe6712782c155d5c14d1f83c/croprotate.jpg?cropheight=564&cropwidth=1024&degrees=0&input=https%3A%2F%2Ffarm3.staticflickr.com%2F2253%2F2039548409_2e67b4c6e7_b.jpg&x=0&y=122"></article>]]></description>
+            <link>https://www.flickr.com/photos/fish2000/2039548409/in/set-72157603214192550/</link>
+            <guid isPermaLink="false">dc576622-4505-4b4d-b1ea-001449e2ab8b</guid>
+            <pubDate>Mon, 29 Aug 2016 07:39:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://jamesprovost.com/wp-content/blogs.dir/1/files/2009/11/boston_dynamics_bigdog.jpg</link>
             <guid isPermaLink="false">2a112404-8ed4-404b-b328-6df19491e07a</guid>
             <pubDate>Mon, 29 Aug 2016 07:27:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Touchscreen Projector @ Sharper Image]]></title>
-            <description><![CDATA[<article><h1>Touchscreen Projector @ Sharper Image</h1><p>Touchscreen Projector The Touchscreen Projector converts any wall or tabletop into an interactive touchscreen! It's ideal for business presentations, art, teaching, games, videos and more!</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/396182ee3d0f1c899bf99bc801731372/noop.jpg?input=http%3A%2F%2Fcdn1.sharperimage.com%2Fsi%2Fimg%2FproductImages%2F204870%2F204870-p1.jpg"></article>]]></description>
-            <link>http://www.sharperimage.com/si/view/product/Touchscreen+Projector/204870?trail=</link>
-            <guid isPermaLink="false">8a3672e1-818c-4037-98f2-d3a9ca9176b3</guid>
-            <pubDate>Mon, 29 Aug 2016 07:27:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
