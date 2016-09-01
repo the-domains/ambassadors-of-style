@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 21:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 01:56:37 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mechanical Engineer: Expectations vs. Reality]]></title>
+            <description><![CDATA[<article><h1>Mechanical Engineer: Expectations vs. Reality</h1><p>We talk about what we thought mechanical engineering would be like vs what it is actually like. We want to make this video so students have an accurate image of what a Mechanical Engineer actually does.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bbe55ab54bb51491efe09d3ab38ef1e4/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FhNejutAMiTE%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=hNejutAMiTE</link>
+            <guid isPermaLink="false">40ae86cf-d86c-49cc-bad9-da4b5c76849f</guid>
+            <pubDate>Tue, 30 Aug 2016 01:55:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laser-Cut Patterns in Nori for Stylish Sushi | Make:]]></title>
@@ -68,13 +75,6 @@
             <link>http://farm1.static.flickr.com/176/431267829_6cd0943479_o.jpg</link>
             <guid isPermaLink="false">086e5587-5464-400a-b13c-5071e0bbc429</guid>
             <pubDate>Mon, 29 Aug 2016 08:13:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ten-ei Abe]]></title>
-            <description><![CDATA[<article><h1>Ten-ei Abe</h1><p>Ten-ei Abe, a representative artist of Hokkaido, Japan, has stood in the front line for over 60 years. Since his debut, he has exhibited many outstanding dynamic pieces domestically and overseas and he still keeps developing new pieces, regardless of the achievement and evaluation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/44cb187bd0b34bdf1193a41b5b5b2e0b/noop.png?input=http%3A%2F%2Fwww.shift.jp.org%2Fwp-sft-content%2Fuploads%2Fsites%2F2%2F2016%2F07%2Fteneiabe_1515.png"></article>]]></description>
-            <link>http://www.shift.jp.org/en/archives/2016/08/tenei-abe.html</link>
-            <guid isPermaLink="false">357e68c3-5b09-4fb6-9586-1d5e73b48f5d</guid>
-            <pubDate>Mon, 29 Aug 2016 08:13:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
