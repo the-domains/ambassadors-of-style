@@ -1,16 +1,16 @@
-typography_spectrum: 0.6405087155289948
+layout_spectrum: 0.40503261028788984
+typography_spectrum: 0.7600100494455546
 color:
-  brandStrength: 0.35812783846631646
-  lightness: 0.14796098601073027
-  saturation: 0.6229533976875246
-  rhythmicContrast: 0.6500483162235469
+  brandStrength: 0.2495365326758474
+  lightness: 0.10076087433844805
+  saturation: 0.6593840424902737
+  rhythmicContrast: 0.6139924777671695
   brandColors:
     - '#2C3E50'
     - '#E74C3C'
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-layout_spectrum: 0.32827117503620684
 logo: null
 name: AMBASSADORS OF STYLE
 navigation:
