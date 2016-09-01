@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 20:50:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 21:04:54 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bennett Robot Works: Robot Detail]]></title>
+            <description><![CDATA[<article><h1>Bennett Robot Works: Robot Detail</h1><p>Bennett Robot Works: Original Art Robot Sculpture made from found objects.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/57b9da27aa9ccbeed727625c0e6a22e1/noop.jpg?input=http%3A%2F%2Fwww.bennettrobotworks.com%2Fart%2Frobot_0093.jpg"></article>]]></description>
+            <link>http://www.bennettrobotworks.com/detail.php?image=0093</link>
+            <guid isPermaLink="false">b1000dcd-463c-46e4-a892-0cff695ffa71</guid>
+            <pubDate>Mon, 29 Aug 2016 21:04:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
