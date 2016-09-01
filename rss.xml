@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 21:04:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 21:11:06 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Laser-Cut Patterns in Nori for Stylish Sushi | Make:]]></title>
+            <description><![CDATA[<article><h1>Laser-Cut Patterns in Nori for Stylish Sushi | Make:</h1><p>I first saw laser-cut sushi while reading Designboom and it really stuck in my mind. So beautiful! So I figured out how to re-create the process. Since the laser cutter does all the work, I mostly just had to think about what design I'd like to generate in Adobe Illustrator.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/38443e13299c2aa402617dff362f5091/noop.jpg?input=http%3A%2F%2Fmakezine.com%2Fwp-content%2Fuploads%2F2016%2F08%2FLaserCutSeaweed-2-copy.jpg"></article>]]></description>
+            <link>http://makezine.com/projects/laser-cut-sushi/</link>
+            <guid isPermaLink="false">cf6d1102-4e59-4c40-bec6-bb40b4e70a02</guid>
+            <pubDate>Mon, 29 Aug 2016 21:10:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bennett Robot Works: Robot Detail]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.shift.jp.org/en/archives/2016/08/tenei-abe.html</link>
             <guid isPermaLink="false">357e68c3-5b09-4fb6-9586-1d5e73b48f5d</guid>
             <pubDate>Mon, 29 Aug 2016 08:13:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VR game developers prefer the HTC Vive, grapple with nausea]]></title>
-            <description><![CDATA[<article><h1>VR game developers prefer the HTC Vive, grapple with nausea</h1><p>The study doesn't explain why the Vive is getting more support, although its technology may play an important role. While Oculus is largely focused on sit-down VR with conventional controls (its motion controller won't arrive until later this year), the Vive shipped from the start with support for room-scale VR and motion input.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4a3009d7d414f1ee8e058fb415fd079a/noop?input=https%3A%2F%2Fs.aolcdn.com%2Fdims5%2Famp%3A1e16f1f1053a28299b825c820b7b9b4b56bdbd34%2Ft%3A1200%2C630%2Fq%3A80%2F%3Furl%3Dhttps%253A%252F%252Fs.aolcdn.com%252Fdims-shared%252Fdims3%252FGLOB%252Fcrop%252F1400x933%252B0%252B0%252Fresize%252F1600x1066%2521%252Fformat%252Fjpg%252Fquality%252F85%252Fhttps%253A%252F%252Fs.aolcdn.com%252Fhss%252Fstorage%252Fmidas%252F1d50b36e0f1e79f8b97b38be1a3bf963%252F203641282%252FHTC%252BVive%252Bgallery%252B12.jpg"></article>]]></description>
-            <link>https://www.engadget.com/2016/08/24/vr-game-developers-reveal-preferences/</link>
-            <guid isPermaLink="false">31601b33-078a-484b-8e61-0efd566dca38</guid>
-            <pubDate>Mon, 29 Aug 2016 08:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
