@@ -4,7 +4,7 @@
         <description><![CDATA[AMBASSADORS OF STYLE]]></description>
         <link>http://aostyle.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 19:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 20:50:22 GMT</lastBuildDate>
         <atom:link href="http://aostyle.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[We mean business]]></title>
@@ -12,6 +12,13 @@
             <link>http://aostyle.org/we-mean-business/index.html</link>
             <guid isPermaLink="false">b60fe398-9e00-4840-8787-a89596cb80f1</guid>
             <pubDate>Tue, 02 Aug 2016 23:36:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eab4accb-5918-4284-8116-728d3aaae9b8.jpg">]]></description>
+            <link>http://aostyle.org/db940c40-59ca-449f-a06e-96f693afa317/index.html</link>
+            <guid isPermaLink="false">db940c40-59ca-449f-a06e-96f693afa317</guid>
+            <pubDate>Mon, 29 Aug 2016 19:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kay Rosen: Selected Work]]></title>
@@ -26,13 +33,6 @@
             <link>http://www.webpark.ru/comment/35289</link>
             <guid isPermaLink="false">0a3aeea5-bfc0-4d47-a3af-f89377055d0d</guid>
             <pubDate>Mon, 29 Aug 2016 17:44:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dan's Decommoditize]]></title>
-            <description><![CDATA[<article><h1>Dan's Decommoditize</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f1e8ab034dddea3885b2343dd6e283f3/croprotate.jpg?cropheight=766&cropwidth=1022&degrees=0&input=https%3A%2F%2Ffarm1.staticflickr.com%2F224%2F499175779_e5f863d26b_b.jpg%3Fzz%3D1&x=1&y=1"></article>]]></description>
-            <link>https://www.flickr.com/photos/stygian_jone/499175779/</link>
-            <guid isPermaLink="false">fef06bd6-bd48-4dca-a8d0-ef1f85653353</guid>
-            <pubDate>Mon, 29 Aug 2016 08:13:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Dark Roasted Blend: Rare Photos of the Russian]]></title>
@@ -68,13 +68,6 @@
             <link>https://www.engadget.com/2016/08/24/vr-game-developers-reveal-preferences/</link>
             <guid isPermaLink="false">31601b33-078a-484b-8e61-0efd566dca38</guid>
             <pubDate>Mon, 29 Aug 2016 08:13:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Quad modular storage system]]></title>
-            <description><![CDATA[<article><h1>Quad modular storage system</h1><p>modular storage furniture design</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2f172dbd923fab5de42c6ceb3dbff111/noop.jpg?input=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fprojects%2F404%2F65029.543735b9d0631.jpg"></article>]]></description>
-            <link>https://www.behance.net/Gallery/Quad-modular-storage-module/65029</link>
-            <guid isPermaLink="false">d13e25e8-9899-45bb-ac0f-db31e54d0f8a</guid>
-            <pubDate>Mon, 29 Aug 2016 07:39:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
